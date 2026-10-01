@@ -1,268 +1,195 @@
 <!--
   Devashish Bose | GitHub Profile README
-  Profile repository: devashish588/devashish588
-
-  To finish personalization, replace the remaining [ADD_*] social/contact placeholders.
-  The top banner uses Capsule Render's light/dark variants; no local image asset is required.
+  Style direction: technical "AI systems lab" / cyberdeck, inspired by the reference profile.
+  Keep claims tied to work actually described here; update this README as projects evolve.
 -->
 
-<!-- ═════════════════════════════ BANNER ═════════════════════════════ -->
+<div align="center">
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://capsule-render.vercel.app/api?type=waving&color=0:24172A,50:9D4779,100:EF93C4&height=230&section=header&text=Devashish%20Bose&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Engineer%20%7C%20RAG%20%7C%20Python%20%7C%20Full-Stack&descAlignY=60&descSize=17&animation=fadeIn"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFF0F7,50:F8BBD0,100:EF93C4&height=230&section=header&text=Devashish%20Bose&fontSize=48&fontColor=55243F&fontAlignY=38&desc=AI%20Engineer%20%7C%20RAG%20%7C%20Python%20%7C%20Full-Stack&descAlignY=60&descSize=17&animation=fadeIn"
-    />
-    <img
-      src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF0F7,50:F8BBD0,100:EF93C4&height=230&section=header&text=Devashish%20Bose&fontSize=48&fontColor=55243F&fontAlignY=38&desc=AI%20Engineer%20%7C%20RAG%20%7C%20Python%20%7C%20Full-Stack&descAlignY=60&descSize=17&animation=fadeIn"
-      alt="Devashish Bose — AI Engineer, RAG, Python and Full-Stack"
-      width="100%"
-    />
-  </picture>
-</p>
+# ⚡ DEVASHISH BOSE // AI SYSTEMS BUILDER ⚡
 
-<h1 align="center">Hey there, I'm Devashish Bose 👋</h1>
+### AI Engineer · LLM Applications · RAG Systems · Python · Full-Stack
 
-<h3 align="center">AI Engineer · RAG & LLM Applications · Python · Full-Stack Development</h3>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore%20My%20Work-EF93C4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devashishportfolio-steel.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-devashish588-24292e?style=for-the-badge&logo=github)](https://github.com/devashish588)
+[![Profile views](https://komarev.com/ghpvc/?username=devashish588&label=PROFILE%20VIEWS&color=EF93C4&style=for-the-badge)](https://github.com/devashish588)
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=EF93C4&center=true&vCenter=true&width=720&lines=Building+practical+AI+systems;Turning+data+into+useful+products;Exploring+RAG%2C+LLMs+%26+agentic+workflows;Learning+by+building+and+shipping"
-      alt="Typing animation: Building practical AI systems, turning data into useful products, exploring RAG and LLMs, learning by building"
-    />
-  </a>
-</p>
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1100&color=EF93C4&center=true&vCenter=true&width=760&lines=Designing+practical+AI+systems;Building+RAG+and+LLM-powered+applications;Connecting+data%2C+models%2C+APIs%2C+and+products;Learn+deeply.+Build+carefully.+Ship+usefully." alt="Typing animation" />
+</a>
 
-<p align="center">
-  <a href="https://github.com/devashish588">
-    <img src="https://img.shields.io/github/followers/devashish588?label=Followers&style=for-the-badge&color=EF93C4&labelColor=24172A" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/devashish588?tab=repositories">
-    <img src="https://img.shields.io/github/stars/devashish588?affiliations=OWNER&label=Stars&style=for-the-badge&color=F8BBD0&labelColor=24172A" alt="GitHub stars" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=devashish588&label=Profile%20Views&color=FF69B4&style=for-the-badge" alt="Profile views" />
-</p>
-
-<p align="center">
-  <a href="https://devashishportfolio-steel.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-FF69B4?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/devashish588">
-    <img src="https://img.shields.io/badge/GitHub-Follow-EF93C4?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
-</p>
+</div>
 
 ---
 
-<h2 align="center">🌸 About Me</h2>
+## 🧬 Identity // Model Card
 
-<table align="center" width="100%" border="0" cellpadding="12" cellspacing="0">
-  <tr>
-    <td width="65%" valign="middle">
-      <p>
-        I'm an AI-focused engineer and IoT graduate from Madhav Institute of Technology & Science, Gwalior.
-        I build practical AI applications, retrieval systems, data workflows, and full-stack products.
-        My interests span LLM engineering, RAG, machine learning, analytics, and reliable software.
-      </p>
-      <ul>
-        <li>🔭 Building and improving AI-powered applications and developer tools.</li>
-        <li>🧠 Working with LLM post-training workflows, SFT/RLHF, annotation, and prompt engineering at Ethara AI.</li>
-        <li>🌱 Deepening my skills in RAG evaluation, agentic workflows, orchestration, and AI systems reliability.</li>
-        <li>🛠️ Comfortable with Python, SQL, FastAPI, LangChain, vector search, and modern web technologies.</li>
-        <li>🎓 Preparing for GATE CS 2027 while continuing hands-on engineering and project work.</li>
-        <li>🤝 Interested in AI/ML engineering, data-focused roles, and building useful products with collaborative teams.</li>
-      </ul>
-      <p>
-        I believe in learning by building: understanding the fundamentals, measuring results,
-        and iterating until a system is useful and dependable.
-      </p>
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <img
-        src="https://github.com/devashish588.png"
-        alt="Devashish Bose GitHub avatar"
-        width="220"
-        style="max-width:100%; border-radius:18px;"
-      />
-      <br />
-      <sub>Gwalior, India · AI & Software Engineering</sub>
-    </td>
-  </tr>
-</table>
+```yaml
+name: Devashish Bose
+role: AI Engineer | LLM Applications | Full-Stack Developer
+education: B.Tech, Internet of Things (IoT)
+institute: Madhav Institute of Technology & Science, Gwalior
+location: India
+current_focus:
+  - LLM post-training workflows
+  - Retrieval-Augmented Generation (RAG)
+  - Agentic workflows and evaluation
+  - GATE CS 2027 preparation
+working_style: learn-by-building
+```
+
+I build practical software at the intersection of **AI engineering, data, and product development**. My work includes document retrieval, LLM-enabled workflows, machine-learning applications, and local-first web products. I enjoy understanding the complete path—from data and model behavior to APIs, interfaces, evaluation, and deployment.
+
+### Active modules
+
+- 🧠 **LLM Engineering:** prompt design, structured outputs, SFT/RLHF workflows, and application integration.
+- 📚 **Retrieval Systems:** embeddings, semantic search, vector stores, retrieval evaluation, and RAG pipelines.
+- 📊 **Machine Learning & Analytics:** data preparation, feature engineering, model evaluation, and visualization.
+- ⚙️ **Software Engineering:** Python APIs, TypeScript applications, databases, and end-to-end product workflows.
+- 🔬 **Continuous Learning:** GATE CS 2027, ML foundations, agent orchestration, reliability, and safety.
 
 ---
 
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+## 🧠 Core Systems // Skill Tree
 
-<p align="center"><strong>Languages & Data</strong></p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,r,html,css&theme=light" alt="Python, JavaScript, TypeScript, R, HTML and CSS" />
-  </a>
-</p>
+### 🤖 Generative AI & Retrieval
 
-<p align="center"><strong>AI, Machine Learning & Backend</strong></p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,flask,sklearn,pytorch,tensorflow,nodejs,express&theme=light" alt="FastAPI, Flask, machine learning, PyTorch, TensorFlow, Node.js and Express" />
-  </a>
-</p>
+- LLM application development and prompt engineering
+- Retrieval-Augmented Generation (RAG) and hybrid retrieval concepts
+- Embeddings, semantic search, and vector databases
+- LangChain, Hugging Face, ChromaDB, and FastAPI
+- Retrieval evaluation and structured response workflows
+- SFT/RLHF workflow support, annotation, and post-training tasks
 
-<p align="center"><strong>Frontend, Databases & Developer Tools</strong></p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,postgres,mysql,mongodb,redis,docker,git,github,linux,vscode&theme=light" alt="React, Next.js, Tailwind, PostgreSQL, MySQL, MongoDB, Redis, Docker, Git, GitHub, Linux and VS Code" />
-  </a>
-</p>
+### 📊 Machine Learning & Data
 
-<p align="center">
-  <sub>Also exploring LangChain, Hugging Face, ChromaDB, embeddings, semantic search, Pandas, NumPy, Power BI, Tableau, Hadoop and Hive.</sub>
-</p>
+- Python, Pandas, NumPy, Scikit-learn
+- Data cleaning, EDA, feature engineering, and model evaluation
+- Random Forest, classification, forecasting, and time-series workflows
+- SQL, R, Power BI, Tableau, Hadoop, and Hive
+- Matplotlib and Seaborn for analysis and visualization
 
----
+### ⚙️ Backend, Product & Engineering
 
-<h2 align="center">🚀 Featured Projects</h2>
-<p align="center">Selected projects across AI engineering, productivity, and data applications.</p>
-
-<table align="center" width="100%" border="0" cellpadding="12" cellspacing="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔎 RAG Document Search</h3>
-      <p align="center">A document question-answering pipeline using FastAPI, LangChain, embeddings, ChromaDB, and semantic retrieval, with retrieval evaluation.</p>
-      <p align="center"><sub>Python · FastAPI · LangChain · ChromaDB · RAG</sub></p>
-      <p align="center"><a href="https://github.com/devashish588/RAG-Doc-Search"><img src="https://img.shields.io/badge/Explore%20Repository-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="RAG Document Search repository" /></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 Applyr</h3>
-      <p align="center">An AI-assisted job discovery and application workflow concept, bringing together job search, resume tailoring, and outreach support.</p>
-      <p align="center"><sub>AI · LLMs · Automation · Career Tools</sub></p>
-      <p align="center"><a href="https://github.com/devashish588/Applyr"><img src="https://img.shields.io/badge/Explore%20Repository-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Applyr repository" /></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔥 StudyForge</h3>
-      <p align="center">A personal study and career operating system with capacity-aware planning, progress tracking, revision workflows, and an installable PWA.</p>
-      <p align="center"><sub>Next.js · TypeScript · PWA · Planning</sub></p>
-      <p align="center"><a href="https://github.com/devashish588/StudyForge"><img src="https://img.shields.io/badge/Explore%20Repository-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="StudyForge repository" /></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">💪 FuelUp</h3>
-      <p align="center">A local-first fitness and nutrition tracker for workouts, food logs, body metrics, and habits, designed around offline-friendly use.</p>
-      <p align="center"><sub>Next.js · TypeScript · PWA · IndexedDB</sub></p>
-      <p align="center"><a href="https://github.com/devashish588/FuelUp"><img src="https://img.shields.io/badge/Explore%20Repository-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="FuelUp repository" /></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">⚙️ Predictive Maintenance</h3>
-      <p align="center">A machine-learning project using NASA turbofan engine sensor data, time-series feature engineering, and Random Forest modeling.</p>
-      <p align="center"><sub>Python · Scikit-learn · Time Series · Streamlit</sub></p>
-      <p align="center"><a href="https://github.com/devashish588/Predictive_Maintenance"><img src="https://img.shields.io/badge/Explore%20Repository-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Predictive Maintenance repository" /></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🌐 Portfolio</h3>
-      <p align="center">A personal portfolio presenting selected projects, technical interests, and professional background.</p>
-      <p align="center"><sub>Next.js · TypeScript · Web Development</sub></p>
-      <p align="center"><a href="https://devashishportfolio-steel.vercel.app"><img src="https://img.shields.io/badge/Visit%20Portfolio-FF69B4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit portfolio" /></a></p>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/devashish588?tab=repositories">
-    <img src="https://img.shields.io/badge/More%20Projects-View%20All%20Repositories-F8BBD0?style=for-the-badge&logo=github&logoColor=24172A" alt="View all repositories" />
-  </a>
-</p>
+- FastAPI, Flask, Node.js, and REST APIs
+- TypeScript, JavaScript, React, Next.js, and Django
+- PostgreSQL, Prisma, ChromaDB, Redis, and IndexedDB
+- Git, GitHub, Docker, Vercel, and deployment workflows
+- Local-first architecture, PWA patterns, and offline-friendly experiences
 
 ---
 
-<h2 align="center">💼 Experience</h2>
+## 🧩 Engineering Stack // Loadout
 
-<table align="center" width="100%" border="0" cellpadding="10" cellspacing="0">
-  <tr>
-    <td valign="top" width="100%">
-      <strong>LLM Post-Training Intern · Ethara AI</strong><br />
-      <sub>Jul 2026 – Present</sub><br />
-      Supporting SFT/RLHF workflows, data annotation, and prompt engineering.
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <strong>Full Stack Developer Intern · Bluestock Fintech</strong><br />
-      <sub>Jan 2026 – Jun 2026</sub><br />
-      Contributed to full-stack development and product engineering workflows.
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <strong>Data Analyst Intern · Elevate Labs</strong><br />
-      <sub>Jun 2025 – Jul 2025</sub><br />
-      Worked on data analysis and analytics-oriented tasks.
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+**Languages & Data**
+
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,r,html,css&theme=dark)](https://skillicons.dev)
+
+**AI, ML & Backend**
+
+[![My Skills](https://skillicons.dev/icons?i=fastapi,flask,sklearn,pytorch,tensorflow,nodejs,express&theme=dark)](https://skillicons.dev)
+
+**Frontend, Databases & Tooling**
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,postgres,mysql,mongodb,redis,docker,git,github,linux,vscode&theme=dark)](https://skillicons.dev)
+
+</div>
+
+<sub>Additional tools and platforms: LangChain, Hugging Face, ChromaDB, embeddings, semantic search, Pandas, NumPy, Power BI, Tableau, Hadoop, Hive, Prisma, and IndexedDB.</sub>
 
 ---
 
-<h2 align="center">📊 GitHub Statistics</h2>
-<p align="center">A live snapshot of my public GitHub activity.</p>
+## 🗂️ Repo Grid // Deployed Artifacts
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=devashish588&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0&ring_color=EF93C4"
-    alt="Devashish's GitHub statistics"
-    width="49%"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devashish588&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=EF93C4&text_color=F8BBD0"
-    alt="Devashish's most used languages"
-    width="41%"
-  />
-</p>
+> Selected builds across retrieval, AI-assisted workflows, personal systems, and applied machine learning.
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=devashish588&hide_border=true&background=0D1117&ring=EF93C4&fire=FF69B4&currStreakLabel=F8BBD0&sideLabels=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=F8BBD0"
-    alt="Devashish's GitHub contribution streak"
-    width="70%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=devashish588&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&area_color=EF93C4&hide_border=true"
-    alt="Devashish's GitHub activity graph"
-    width="100%"
-  />
-</p>
-
-<p align="center"><sub>Stats cards are served by third-party services and may occasionally be unavailable or delayed.</sub></p>
+| Repository | Brief signal | Stack |
+|---|---|---|
+| [RAG Document Search](https://github.com/devashish588/RAG-Doc-Search) | Document Q&A pipeline with retrieval evaluation, semantic search, and a FastAPI backend. | Python · FastAPI · LangChain · ChromaDB |
+| [Applyr](https://github.com/devashish588/Applyr) | AI-assisted job discovery and application workflow concept, including resume tailoring and outreach support. | AI · LLMs · Automation |
+| [StudyForge](https://github.com/devashish588/StudyForge) · [Live app](https://study-forge-pied.vercel.app) | Personal study and career operating system with capacity-aware planning, progress tracking, and PWA support. | Next.js · TypeScript · PWA |
+| [FuelUp](https://github.com/devashish588/FuelUp) | Local-first fitness and nutrition tracker for workouts, food logs, body metrics, and habits. | Next.js · TypeScript · IndexedDB |
+| [Predictive Maintenance](https://github.com/devashish588/Predictive_Maintenance) | NASA turbofan sensor-data modeling with time-series feature engineering and a Random Forest workflow. | Python · Scikit-learn · Streamlit |
+| [Portfolio](https://github.com/devashish588/Devashishportfolio) · [Live site](https://devashishportfolio-steel.vercel.app) | Personal portfolio for selected projects, technical interests, and professional background. | Next.js · TypeScript |
 
 ---
 
-<h2 align="center">🐍 Contribution Snake</h2>
-<p align="center">A playful visualization of my GitHub contribution history.</p>
+## 🧪 Build Notes // Selected Work
 
-<p align="center">
+### 🔎 RAG Document Search
+
+A document question-answering system built with **FastAPI, LangChain, embeddings, and ChromaDB**. The project explores document ingestion, chunking, vector retrieval, and answering over retrieved context. Its recorded dense-retrieval evaluation includes **Recall@1: 0.78, Recall@5: 1.00, Recall@10: 1.00, and MRR: 0.8867**.
+
+### 🤖 Applyr
+
+An AI-assisted job-search workflow concept focused on bringing job discovery, resume parsing/tailoring, and outreach support into one experience. The project has explored LLM provider integration, search tooling, and email workflow considerations.
+
+### 🔥 StudyForge
+
+A personal learning and career operating system designed to coordinate study plans, track actual effort, manage revision, and adapt work to available capacity. It combines a Next.js PWA interface with local-first data and planning workflows.
+
+### 💪 FuelUp
+
+A local-first fitness and nutrition PWA for recording workouts, food, body metrics, and habits. Its architecture emphasizes offline use and local persistence, with synchronization concepts for connected use.
+
+---
+
+## 💼 Experience // Field Log
+
+| Role | Organization | Period | Focus |
+|---|---|---|---|
+| LLM Post-Training Intern | Ethara AI | Jul 2026 – Present | SFT/RLHF workflow support, annotation, and prompt engineering |
+| Full Stack Developer Intern | Bluestock Fintech | Jan 2026 – Jun 2026 | Full-stack development and product engineering |
+| Data Analyst Intern | Elevate Labs | Jun 2025 – Jul 2025 | Data analysis and analytics-oriented tasks |
+
+---
+
+## 🎯 Current Training Loop
+
+- **LLM & RAG:** retrieval design, embeddings, evaluation, and grounded answer generation.
+- **Agents & Orchestration:** tool calling, task decomposition, agent memory, and workflow coordination.
+- **AI Operations:** latency, cost, monitoring, reliability, and evaluation.
+- **Safety & Ethics:** hallucination reduction, privacy, bias, and prompt-injection awareness.
+- **Foundations:** machine learning, data structures, algorithms, and GATE CS 2027 preparation.
+
+---
+
+## 📈 GitHub Telemetry
+
+<div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/devashish588?label=Followers&style=for-the-badge&color=EF93C4&labelColor=171321)](https://github.com/devashish588?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/devashish588?affiliations=OWNER&label=Stars&style=for-the-badge&color=F8BBD0&labelColor=171321)](https://github.com/devashish588?tab=repositories)
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=devashish588&show_icons=true&hide_border=true&include_all_commits=true&bg_color=171321&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0&ring_color=EF93C4" alt="GitHub stats" />
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devashish588&layout=compact&hide_border=true&langs_count=8&bg_color=171321&title_color=EF93C4&text_color=F8BBD0" alt="Top languages" />
+
+<img width="70%" src="https://streak-stats.demolab.com?user=devashish588&hide_border=true&background=171321&ring=EF93C4&fire=FF69B4&currStreakLabel=F8BBD0&sideLabels=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=F8BBD0" alt="GitHub contribution streak" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=devashish588&bg_color=171321&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&area_color=EF93C4&hide_border=true" alt="GitHub activity graph" />
+
+</div>
+
+<sub>Statistics are rendered by third-party services and may be temporarily unavailable or delayed.</sub>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devashish588/devashish588/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devashish588/devashish588/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/devashish588/devashish588/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/devashish588/devashish588/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
-</p>
+</div>
 
 <!--
-SNAKE ACTION SETUP
-Create .github/workflows/snake.yml in this profile repository with the workflow below.
-The generated SVGs are published to the output branch. Enable GitHub Actions and
-ensure the workflow has permission to write repository contents.
+GitHub Action setup:
+Create .github/workflows/snake.yml and add the following workflow.
+It generates the contribution snake and publishes the SVG files to the output branch.
 
 name: Generate Contribution Snake
 
@@ -301,48 +228,29 @@ jobs:
 
 ---
 
-<h2 align="center">💌 Connect With Me</h2>
-<p align="center">Let's connect, exchange ideas, and explore opportunities.</p>
+## 🔗 Connect to the Mainframe
 
-<p align="center">
-  <a href="[ADD_LINKEDIN_URL]">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="[ADD_X_URL]">
-    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="[ADD_INSTAGRAM_URL]">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="[ADD_TIKTOK_URL]">
-    <img src="https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-  </a>
-  <a href="[ADD_YOUTUBE_URL]">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="mailto:[ADD_EMAIL_ADDRESS]">
-    <img src="https://img.shields.io/badge/Email-Contact-EF93C4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-EF93C4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devashishportfolio-steel.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devashish588)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([ADD_LINKEDIN_URL])
+[![Email](https://img.shields.io/badge/Email-Contact-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[ADD_EMAIL_ADDRESS])
 
-<p align="center">
-  <a href="https://devashishportfolio-steel.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-FF69B4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=twinkling"
-    alt="Thanks for visiting"
-    width="100%"
-  />
-</p>
+## 💡 Operating Principle
 
-<p align="center"><strong>✨ Forge, learn, build, and keep growing. ✨</strong></p>
-<p align="center"><sub>Made with 💗 by Devashish Bose · © 2026</sub></p>
+> **“Understand the fundamentals. Build the system. Measure what matters. Improve continuously.”**
+
+I value clear thinking, practical experimentation, readable engineering, and products that solve real problems. I’m interested in collaborating on AI/ML, data, and software projects where thoughtful implementation and continuous learning matter.
+
+<div align="center">
+
+### ⚡ Thanks for visiting — let's build something useful. ⚡
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24172A,50:9D4779,100:EF93C4&height=130&section=footer" alt="Pink gradient waving footer" width="100%" />
+
+</div>
