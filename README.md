@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# ⚡ DEVASHISH BOSE // AI SYSTEMS BUILDER ⚡
+#  DEVASHISH BOSE 
 
 ### AI Engineer · LLM Applications · RAG Systems · Python · Full-Stack
 
