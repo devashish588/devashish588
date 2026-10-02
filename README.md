@@ -14,9 +14,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-devashish588-24292e?style=for-the-badge&logo=github)](https://github.com/devashish588)
 [![Profile views](https://komarev.com/ghpvc/?username=devashish588&label=PROFILE%20VIEWS&color=EF93C4&style=for-the-badge)](https://github.com/devashish588)
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1100&color=EF93C4&center=true&vCenter=true&width=760&lines=Designing+practical+AI+systems;Building+RAG+and+LLM-powered+applications;Connecting+data%2C+models%2C+APIs%2C+and+products;Learn+deeply.+Build+carefully.+Ship+usefully." alt="Typing animation" />
-</a>
+<p><strong>Designing practical AI systems · Building RAG and LLM-powered applications · Shipping useful software</strong></p>
 
 </div>
 
