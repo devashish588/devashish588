@@ -14,7 +14,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-devashish588-24292e?style=for-the-badge&logo=github)](https://github.com/devashish588)
 [![Profile views](https://komarev.com/ghpvc/?username=devashish588&label=PROFILE%20VIEWS&color=EF93C4&style=for-the-badge)](https://github.com/devashish588)
 
-<p><strong>Designing practical AI systems · Building RAG and LLM-powered applications · Shipping useful software</strong></p>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=F8BBD0&center=true&vCenter=true&width=1000&height=38&lines=Designing+practical+AI+systems+%C2%B7+Building+RAG+and+LLM-powered+applications+%C2%B7+Shipping+useful+software" alt="Designing practical AI systems · Building RAG and LLM-powered applications · Shipping useful software" /></a>
+</p>
 
 </div>
 
