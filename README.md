@@ -168,7 +168,7 @@ A local-first fitness and nutrition PWA for recording workouts, food, body metri
 
 <img width="70%" src="https://streak-stats.demolab.com?user=devashish588&hide_border=true&background=171321&ring=EF93C4&fire=FF69B4&currStreakLabel=F8BBD0&sideLabels=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=F8BBD0" alt="GitHub contribution streak" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=devashish588&bg_color=171321&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&area_color=EF93C4&hide_border=true" alt="GitHub activity graph" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devashish588&theme=github_dark" alt="GitHub activity graph" />
 
 </div>
 
